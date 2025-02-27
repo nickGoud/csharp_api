@@ -1,0 +1,205 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\burger.jpg",
+      "PackagePath": "staticwebassets\\burger.jpg"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\css\\app.31d6cfe0.css",
+      "PackagePath": "staticwebassets\\css\\app.31d6cfe0.css"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\css\\vendor.4a8fc718.css",
+      "PackagePath": "staticwebassets\\css\\vendor.4a8fc718.css"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\fonts\\KFOkCnqEu92Fr1MmgVxIIzQ.9391e6e2.woff",
+      "PackagePath": "staticwebassets\\fonts\\KFOkCnqEu92Fr1MmgVxIIzQ.9391e6e2.woff"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\fonts\\KFOlCnqEu92Fr1MmEU9fBBc-.ddd11dab.woff",
+      "PackagePath": "staticwebassets\\fonts\\KFOlCnqEu92Fr1MmEU9fBBc-.ddd11dab.woff"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\fonts\\KFOlCnqEu92Fr1MmSU5fBBc-.877b9231.woff",
+      "PackagePath": "staticwebassets\\fonts\\KFOlCnqEu92Fr1MmSU5fBBc-.877b9231.woff"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\fonts\\KFOlCnqEu92Fr1MmWUlfBBc-.0344cc3c.woff",
+      "PackagePath": "staticwebassets\\fonts\\KFOlCnqEu92Fr1MmWUlfBBc-.0344cc3c.woff"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\fonts\\KFOlCnqEu92Fr1MmYUtfBBc-.b555d228.woff",
+      "PackagePath": "staticwebassets\\fonts\\KFOlCnqEu92Fr1MmYUtfBBc-.b555d228.woff"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\fonts\\KFOmCnqEu92Fr1Mu4mxM.9b78ea3b.woff",
+      "PackagePath": "staticwebassets\\fonts\\KFOmCnqEu92Fr1Mu4mxM.9b78ea3b.woff"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\fonts\\flUhRq6tzZclQEJ-Vdg-IuiaDsNa.f7d18af2.woff",
+      "PackagePath": "staticwebassets\\fonts\\flUhRq6tzZclQEJ-Vdg-IuiaDsNa.f7d18af2.woff"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\fonts\\flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.8c59cf21.woff2",
+      "PackagePath": "staticwebassets\\fonts\\flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.8c59cf21.woff2"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\icons\\favicon-128x128.png",
+      "PackagePath": "staticwebassets\\icons\\favicon-128x128.png"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\icons\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\icons\\favicon-16x16.png"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\icons\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\icons\\favicon-32x32.png"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\icons\\favicon-96x96.png",
+      "PackagePath": "staticwebassets\\icons\\favicon-96x96.png"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\img\\apple.png",
+      "PackagePath": "staticwebassets\\img\\apple.png"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\img\\banana.png",
+      "PackagePath": "staticwebassets\\img\\banana.png"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\img\\cheerios.png",
+      "PackagePath": "staticwebassets\\img\\cheerios.png"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\img\\chocolate.png",
+      "PackagePath": "staticwebassets\\img\\chocolate.png"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\img\\cornpops.png",
+      "PackagePath": "staticwebassets\\img\\cornpops.png"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\img\\frootloops.png",
+      "PackagePath": "staticwebassets\\img\\frootloops.png"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\img\\frostedflakes.png",
+      "PackagePath": "staticwebassets\\img\\frostedflakes.png"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\img\\krave.png",
+      "PackagePath": "staticwebassets\\img\\krave.png"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\img\\mint.png",
+      "PackagePath": "staticwebassets\\img\\mint.png"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\img\\moosetracks.png",
+      "PackagePath": "staticwebassets\\img\\moosetracks.png"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\img\\orange.png",
+      "PackagePath": "staticwebassets\\img\\orange.png"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\img\\pear.png",
+      "PackagePath": "staticwebassets\\img\\pear.png"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\img\\shoppingcart.png",
+      "PackagePath": "staticwebassets\\img\\shoppingcart.png"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\img\\strawberry.png",
+      "PackagePath": "staticwebassets\\img\\strawberry.png"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\img\\vanilla.png",
+      "PackagePath": "staticwebassets\\img\\vanilla.png"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\img\\watermelon.png",
+      "PackagePath": "staticwebassets\\img\\watermelon.png"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\js\\302.4f1fded0.js",
+      "PackagePath": "staticwebassets\\js\\302.4f1fded0.js"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\js\\411.e0e16dbc.js",
+      "PackagePath": "staticwebassets\\js\\411.e0e16dbc.js"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\js\\498.29a69bbf.js",
+      "PackagePath": "staticwebassets\\js\\498.29a69bbf.js"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\js\\500.5e1f5f96.js",
+      "PackagePath": "staticwebassets\\js\\500.5e1f5f96.js"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\js\\51.78475969.js",
+      "PackagePath": "staticwebassets\\js\\51.78475969.js"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\js\\510.d57050fb.js",
+      "PackagePath": "staticwebassets\\js\\510.d57050fb.js"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\js\\699.d1eed14e.js",
+      "PackagePath": "staticwebassets\\js\\699.d1eed14e.js"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\js\\784.5917dc0c.js",
+      "PackagePath": "staticwebassets\\js\\784.5917dc0c.js"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\js\\803.98adc652.js",
+      "PackagePath": "staticwebassets\\js\\803.98adc652.js"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\js\\862.18f79bf9.js",
+      "PackagePath": "staticwebassets\\js\\862.18f79bf9.js"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\js\\983.4d5aea93.js",
+      "PackagePath": "staticwebassets\\js\\983.4d5aea93.js"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\js\\app.017f2dff.js",
+      "PackagePath": "staticwebassets\\js\\app.017f2dff.js"
+    },
+    {
+      "Id": "E:\\Fanshawe_Level_4\\INFO3067\\Casestudy\\Casestudy\\wwwroot\\js\\vendor.36be0ee1.js",
+      "PackagePath": "staticwebassets\\js\\vendor.36be0ee1.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Casestudy.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Casestudy.props",
+      "PackagePath": "build\\Casestudy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Casestudy.props",
+      "PackagePath": "buildMultiTargeting\\Casestudy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Casestudy.props",
+      "PackagePath": "buildTransitive\\Casestudy.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

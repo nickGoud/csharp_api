@@ -1,0 +1,189 @@
+[
+  {
+    "ID": "1",
+    "BRAND": "FARMERSMARKET",
+    "PRODUCTNAME": "APPLE",
+    "GRAPHICNAME": "apple.png",
+    "COSTPRICE": "2.49",
+    "MSRP": "1.99",
+    "QTYONHAND": "5",
+    "QTYONBACKORDER": "0",
+    "DESCRIPTION": "roundish, 5�10 cm (2�4 inches) in diameter, and some shade of red, green, or yellow in colour. (95 calories / 100g)"
+  },
+  {
+    "ID": "2",
+    "BRAND": "FARMERSMARKET",
+    "PRODUCTNAME": "BANANA",
+    "GRAPHICNAME": "banana.png",
+    "COSTPRICE": "0.89",
+    "MSRP": "0.62",
+    "QTYONHAND": "5",
+    "QTYONBACKORDER": "0",
+    "DESCRIPTION": "a curved, yellow fruit with a thick skin and soft sweet flesh. (105 calories / 100g)"
+  },
+  {
+    "ID": "3",
+    "BRAND": "FARMERSMARKET",
+    "PRODUCTNAME": "ORANGE",
+    "GRAPHICNAME": "orange.png",
+    "COSTPRICE": "1.78",
+    "MSRP": "1.45",
+    "QTYONHAND": "5",
+    "QTYONBACKORDER": "0",
+    "DESCRIPTION": "a usually round or oval citrus; its rind and flesh are generally orange, except the varieties of red pulp. (47 calories / 100g)"
+  },
+  {
+    "ID": "4",
+    "BRAND": "FARMERSMARKET",
+    "PRODUCTNAME": "PEAR",
+    "GRAPHICNAME": "pear.png",
+    "COSTPRICE": "1.69",
+    "MSRP": "1.52",
+    "QTYONHAND": "5",
+    "QTYONBACKORDER": "0",
+    "DESCRIPTION": "a sweet, juicy fruit that is narrow near its stalk, and wider and rounded at the bottom. (57 calories / 100g)"
+  },
+  {
+    "ID": "5",
+    "BRAND": "FARMERSMARKET",
+    "PRODUCTNAME": "WATERMELON",
+    "GRAPHICNAME": "watermelon.png",
+    "COSTPRICE": "0.65",
+    "MSRP": "0.38",
+    "QTYONHAND": "5",
+    "QTYONBACKORDER": "0",
+    "DESCRIPTION": "a large oblong or roundish fruit with a hard green or white rind often striped or variegated, a sweet watery pink, yellowish, or red pulp, and usually many seeds. (30 calories / 100g)"
+  },
+  {
+    "ID": "6",
+    "BRAND": "CHAPLINS",
+    "PRODUCTNAME": "VANILLA",
+    "GRAPHICNAME": "vanilla.png",
+    "COSTPRICE": "1.70",
+    "MSRP": "1.50",
+    "QTYONHAND": "3",
+    "QTYONBACKORDER": "0",
+    "DESCRIPTION": "The vanilla essence added gives the ice cream a very natural aroma and vanilla flavour. (207 calories / 100g)"
+  },
+  {
+    "ID": "7",
+    "BRAND": "CHAPLINS",
+    "PRODUCTNAME": "CHOCOLATE",
+    "GRAPHICNAME": "chocolate.png",
+    "COSTPRICE": "1.85",
+    "MSRP": "1.75",
+    "QTYONHAND": "3",
+    "QTYONBACKORDER": "0",
+    "DESCRIPTION": "smooth and creamy with an unparalleled chocolate flavor. It is the perfect balance of bittersweet and sweet. Each bite will surprise you with its chocolatiness and you will find yourself involuntarily reaching for another scoop. (207 calories / 100g)"
+  },
+  {
+    "ID": "8",
+    "BRAND": "CHAPLINS",
+    "PRODUCTNAME": "STRAWBERRY",
+    "GRAPHICNAME": "strawberry.png",
+    "COSTPRICE": "2.50",
+    "MSRP": "2.00",
+    "QTYONHAND": "3",
+    "QTYONBACKORDER": "0",
+    "DESCRIPTION": "sweet-tart burst of ripe, juicy strawberries stirred into sweet, frozen cream is a summer pleasure unlike any other. (207 calories / 100g)"
+  },
+  {
+    "ID": "9",
+    "BRAND": "CHAPLINS",
+    "PRODUCTNAME": "MINT",
+    "GRAPHICNAME": "mint.png",
+    "COSTPRICE": "2.75",
+    "MSRP": "2.25",
+    "QTYONHAND": "3",
+    "QTYONBACKORDER": "0",
+    "DESCRIPTION": "Mint Mint Chocolate Chip Ice Cream is a type of ice cream that has a minty taste. Mostly spearmint or peppermint flavouring is used for the minty taste but sometimes Creme De Menthe can used as well. (207 calories / 100g)"
+  },
+  {
+    "ID": "10",
+    "BRAND": "CHAPLINS",
+    "PRODUCTNAME": "MOOSETRACKS",
+    "GRAPHICNAME": "moosetracks.png",
+    "COSTPRICE": "3.00",
+    "MSRP": "2.50",
+    "QTYONHAND": "3",
+    "QTYONBACKORDER": "0",
+    "DESCRIPTION": "flavor of ice cream categorized by bits of chunked chocolate and peanut butter candies scattered through a vanilla base with ribbons of thick fudge.   (207 calories / 100g)"
+  },
+  {
+    "ID": "11",
+    "BRAND": "KELLOGS",
+    "PRODUCTNAME": "CHEERIOS",
+    "GRAPHICNAME": "cheerios.png",
+    "COSTPRICE": "3.00",
+    "MSRP": "2.50",
+    "QTYONHAND": "2",
+    "QTYONBACKORDER": "0",
+    "DESCRIPTION": "Made from whole grain oats, and without artificial flavours or colours, they're low in fat and cholesterol free. (100 calories / 100g)"
+  },
+  {
+    "ID": "12",
+    "BRAND": "KELLOGS",
+    "PRODUCTNAME": "FROSTEDFLAKES",
+    "GRAPHICNAME": "frostedflakes.png",
+    "COSTPRICE": "3.00",
+    "MSRP": "2.50",
+    "QTYONHAND": "4",
+    "QTYONBACKORDER": "0",
+    "DESCRIPTION": "a breakfast cereal, produced by the Kellogg Company and consisting of sugar-coated corn flakes. (110 calories / 100g)"
+  },
+  {
+    "ID": "13",
+    "BRAND": "KELLOGS",
+    "PRODUCTNAME": "CORNPOPS",
+    "GRAPHICNAME": "cornpops.png",
+    "COSTPRICE": "3.00",
+    "MSRP": "2.50",
+    "QTYONHAND": "8",
+    "QTYONBACKORDER": "0",
+    "DESCRIPTION": "a breakfast cereal, produced by the Kellogg Company and consisting of crunchy sweetened popped-up corn cereal. (160 calories / 100g)"
+  },
+  {
+    "ID": "14",
+    "BRAND": "KELLOGS",
+    "PRODUCTNAME": "FROOTLOOPS",
+    "GRAPHICNAME": "frootloops.png",
+    "COSTPRICE": "3.00",
+    "MSRP": "2.50",
+    "QTYONHAND": "16",
+    "QTYONBACKORDER": "0",
+    "DESCRIPTION": "a brand of sweetened, fruit-flavored breakfast cereal produced by Kellogg's. (150 calories / 100g)"
+  },
+  {
+    "ID": "15",
+    "BRAND": "KELLOGS",
+    "PRODUCTNAME": "KRAVE",
+    "GRAPHICNAME": "krave.png",
+    "COSTPRICE": "3.00",
+    "MSRP": "2.50",
+    "QTYONHAND": "32",
+    "QTYONBACKORDER": "0",
+    "DESCRIPTION": "a decadently delicious combo of crunchy multigrain cereal shells filled with a real chocolate. (170 calories / 100g)"
+  },
+  {
+    "ID": "16",
+    "BRAND": "TEST_BRAND",
+    "PRODUCTNAME": "TEST_PRODUCT_1",
+    "GRAPHICNAME": "",
+    "COSTPRICE": "509.00",
+    "MSRP": "509.00",
+    "QTYONHAND": "1",
+    "QTYONBACKORDER": "0",
+    "DESCRIPTION": "a product for testing purposes only"
+  },
+  {
+    "ID": "17",
+    "BRAND": "TEST_BRAND",
+    "PRODUCTNAME": "TEST_PRODUCT_2",
+    "GRAPHICNAME": "",
+    "COSTPRICE": "599.00",
+    "MSRP": "599.00",
+    "QTYONHAND": "1",
+    "QTYONBACKORDER": "0",
+    "DESCRIPTION": "a product for testing purposes only"
+  }
+]
